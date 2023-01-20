@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punchgit77&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=punchgit77)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=punchgit77)](https://git.io/streak-stats)
